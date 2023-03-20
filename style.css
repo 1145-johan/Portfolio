@@ -1,0 +1,17 @@
+/******************
+
+COMMOn
+
+*******************/
+
+body{
+    font-family: monospace;
+}
+.font-primary{
+    color: aquamarine;
+}
+
+.title-icon{
+    font-size: 20px;
+    font-weight: bold;
+}
