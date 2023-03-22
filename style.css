@@ -94,5 +94,9 @@ Project
 }
 
 #Project .card img{
-    width: 100px;
+    width: 35vw;
+}
+
+#Project .card-tittle{
+    font-weight: bold;
 }
