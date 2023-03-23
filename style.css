@@ -59,7 +59,7 @@ About
 
 #about .skills{
     font-size: 14px;
-    color: aqua;
+    color: #ccc;
     margin-bottom: 10px;
 }
 
@@ -74,7 +74,7 @@ About
 }
 
 #about .icon a{
-    color: aquamarine;
+    color: black;
 }
 
 
@@ -94,9 +94,13 @@ Project
 }
 
 #Project .card img{
-    width: 35vw;
+    width: 100%;
 }
 
 #Project .card-tittle{
     font-weight: bold;
+}
+
+.card {
+    margin: 0 5vw 0 5vw;
 }
